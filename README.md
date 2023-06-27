@@ -31,7 +31,12 @@ Pada File .env ganti variable berikut dan sesuaikan dengan keinginan anda
 NOMOR_SELINGKUHAN=//NOMOR SELINGKUHAN KAMU (contoh 6285547114544)
 NOMOR_KAMU=//NOMOR KAMU (contoh 62855471145123)
 ```
+## USAGE BOT
 
+```bash
+!selingkuh PESAN YANG MAU KAMU KIRIM
+!decrypt PESAN YANG SELINGKUHAN ANDA KIRIM
+```
 
 ## Donate
 [Saweria](https://saweria.co/sonofescobar1337) <br>
