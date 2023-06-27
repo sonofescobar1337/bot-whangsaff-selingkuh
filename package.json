@@ -1,0 +1,25 @@
+{
+  "name": "whatsapp-selingkuh",
+  "version": "1.0.0",
+  "description": "Kecoh pasangan anda dengan bot ini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sonofescobar1337/bot-whangsaff-selingkuh.git"
+  },
+  "author": "sonofescobar1337",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sonofescobar1337/bot-whangsaff-selingkuh/issues"
+  },
+  "homepage": "https://github.com/sonofescobar1337/bot-whangsaff-selingkuh#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  }
+}
